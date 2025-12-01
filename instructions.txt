@@ -1,0 +1,4 @@
+Fairly simple just run the program with 
+python3 prog.py
+
+The terminal will prompt you with what part of the project you want to test.
